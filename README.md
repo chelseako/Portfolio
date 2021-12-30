@@ -10,7 +10,7 @@
 
 ## [Project 2: FIFA 2019 Player Position Classifer](https://github.com/chelseako/FIFA_2019_Project)
 * Created a linear discrimnant analysis (LDA) model that predicts player position (forward, midfielder, defender) with a cross-validated accuracy of 81%.
-* Used principal component analysis (PCA) and factor analysis to reduce dimensionality and explore variable factoring
-* Identified five factors among numeric variables (overall, defending ability, size and movement, potential, and physical ability)
+* Used principal component analysis (PCA) and factor analysis to reduce dimensionality and explore variable factoring.
+* Identified five factors among numeric variables (overall, defending ability, size and movement, potential, and physical ability).
 
 ![3D Principal Component Analysis plot](https://github.com/chelseako/Portfolio/blob/main/Images/PCA_Plot3D.png)
