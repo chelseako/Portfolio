@@ -7,7 +7,7 @@
 * Cleaned 700+ observations of Honolulu houses sold within the past year using Python (Pandas, Numpy) and R.
 * Optimized Linear, Ridge, Lasso, and Elastic Net Regressors to identify model with best predictive validity.
 
-![Scatterplot of sold versus original price](/Images/Scatterplot_Sold_Original.png)
+![Scatterplot of sold versus original price](/Images/scatter_sold_orig.png)
 
 ## [Project 2: FIFA 2019 Player Position Classifer](https://github.com/chelseako/FIFA_2019_Project)
 * Created a linear discrimnant analysis (LDA) model that predicts player position (forward, midfielder, defender) with a cross-validated accuracy of 81%.
