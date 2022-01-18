@@ -15,4 +15,4 @@
 * Used principal component analysis (PCA) and factor analysis to reduce dimensionality and explore variable factoring.
 * Identified five factors among numeric variables (overall, defending ability, size and movement, potential, and physical ability).
 
-![3D Principal Component Analysis plot](/Images/PCA_Plot3D.png)
+![3D Principal Component Analysis plot](/Images/pcaPlot3D.png)
