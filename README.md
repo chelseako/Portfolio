@@ -4,8 +4,8 @@
 * Created a collaborative filtering item-based recommender system application that prompts a new user to provide 20 ratings for movies they have seen, predicts the new user's ratings on unrated movies, and outputs the top N number of recommended unrated movies with the highest predicted ratings.
 * System aids users in identifying content they are more likely to enjoy, providing a better user experience, and helps movie/tv/entertainment streaming companies attract and maintain customers, increasing revenue.
 * Performed exploratory data analysis and data cleaning and preparation on the movies, ratings, users data.
-* Compared the use of a standard estimator function and singular value decomposition (SVD) function. Using a truncated matrix with the top 100 movies with the highest number of ratings, the standard estimator function produced a mean absolute error (MAE) of 0.769, while the SVD estimator produces an MAE of 0.787.
-* I provided 20 real ratings using the standard and SVD estimator functions and found that the standard estimator produced 5 out of 10 recommended movies I previously watched and enjoyed, while the SVD estimator produced 3 out of 10 movies I previously watched and enjoyed. Thus, the standard estimator appears to be the better estimator.
+* Compared the use of a standard estimator function and singular value decomposition (SVD) estimator function. Using a truncated matrix with the top 100 movies with the highest number of ratings, the standard estimator function produced a mean absolute error (MAE) of 0.769, while the SVD estimator produced an MAE of 0.787.
+* Provided 20 real ratings using the standard and SVD estimator functions and found that the standard estimator produced 5 out of 10 recommended movies previously watched and enjoyed, while the SVD estimator produced 3 out of 10 movies previously watched and enjoyed. Thus, the standard estimator appears to be the better estimator.
 
 ![Distributions of Movie Variables](/Images/movie.png)
 
