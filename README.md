@@ -7,10 +7,6 @@
 * Compared the use of a standard estimator function and singular value decomposition (SVD) estimator function. Using a truncated matrix with the top 100 movies with the highest number of ratings, the standard estimator function produced a mean absolute error (MAE) of 0.769, while the SVD estimator produced an MAE of 0.787.
 * Provided 20 real ratings using the standard and SVD estimator functions and found that the standard estimator produced 5 out of 10 recommended movies previously watched and enjoyed, while the SVD estimator produced 3 out of 10 movies previously watched and enjoyed. Thus, the standard estimator appears to be the better estimator.
 
-![Distributions of Movie Variables](/Images/movie.png)
-
-![Distributions of User Variables](/Images/user.png)
-
 ![Percent Variance Explained](/Images/svd_components.png)
 
 ## [Project 2: Marketing Campaign Classification Project](https://github.com/chelseako/marketing_campaign)
@@ -22,6 +18,8 @@
 * Used GridSearchCV to identify the best parameters on seven different classification models.
 * Compared nine different classification metrics, including an engineered profit metric.
 * The two best models were selected and evalauted on the set aside test data. Results indicate the Random Forest Classifier produced the best overall metrics, including the highest profit score.
+
+![Distributions of Variables](/Images/distributions.png)
 
 ## [Project 2: House Price Prediction Project](https://github.com/chelseako/House_Pricing_Project)
 * Created a model that estimates sold prices for Honolulu houses (RMSE ~ $87,000) to help home buyers estimate a competitive bid offer.
