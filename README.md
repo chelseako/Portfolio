@@ -7,7 +7,6 @@
 * Used GridSearchCV to identify the best parameters on seven different classification models.
 * Compared nine different classification metrics, including an engineered profit metric.
 * The two best models were selected and evalauted on the set aside test data. Results indicate the Random Forest Classifier produced the best overall metrics, including the highest profit score.
-
 ![Distributions of Variables](/Images/distributions.png)
 
 ## [Project 2: House Price Prediction Project](https://github.com/chelseako/House_Pricing_Project)
@@ -16,7 +15,6 @@
 * Used only predictor variables that can be identified at time of listing.
 * Cleaned 700+ observations of Honolulu houses sold within the past year using Python (Pandas, Numpy) and R.
 * Optimized Linear, Ridge, Lasso, and Elastic Net Regressors to identify model with best predictive validity.
-
 ![Scatterplot of sold versus original price](/Images/scatter_sold_orig.png)
 
 ## [Project 3: DREAM Project](https://github.com/chelseako/DREAMProject)
@@ -27,9 +25,8 @@
 
 ## [Project 4: Health Care Access](https://github.com/chelseako/health_care_access)
 * Cleaned, processed, and engineered features from the 2011 through 2019 Behavioral Risk Factor Surveillance System (BRFSS) Survey using R.
-* Created and analyzed three data visualizations, including:
+* Created and analyzed three data visualizations in R and Tableau, including:
      1. Multi-dimensional scaling of the average number of poor health days by state
      2. [Choropleth animation of states' percent with health insurance from 2011 through 2019](https://youtu.be/acC3c1pTr3k)
      3. Dot chart infographic showing the differences in poor health days for individuals with and without healthcare access (below)
-
 ![Dot chart infographic healthcare access](/Images/healthCareAccess_infographic.png)
