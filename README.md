@@ -40,4 +40,4 @@ M.S. Data Science - DePaul University (expected November 2022)
      1. Multi-dimensional scaling of the average number of poor health days by state
      2. [Choropleth animation of states' percent with health insurance from 2011 through 2019](https://youtu.be/acC3c1pTr3k)
      3. Dot chart infographic showing the differences in poor health days for individuals with and without healthcare access (below)
-![Dot chart infographic healthcare access](/Images/healthCareAccess_infographic.png)
+![Dot chart infographic healthcare access](/Images/healthcareAccess_infographic.png)
