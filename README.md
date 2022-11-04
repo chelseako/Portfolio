@@ -9,7 +9,7 @@ M.S. Data Science - DePaul University (expected November 2022)
   
 **Email Address:** ko.chelsea.m@gmail.com  
 
-## [Project 1: Marketing Campaign Classification Project](https://github.com/chelseako/marketing_campaign)
+## [Project 1: Marketing Campaign Classification Project](https://chelseako.github.io/marketing_campaign/)
 
 * Built a classification model with 80% accuracy and an F1-score of 0.49 on the test data to predict customer acceptance of a marketing campaign.
 * Identifying customers who are more likely to accept the campaign will assist companies in using their marketing resources more effectively, increasing overall profit.
@@ -21,7 +21,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ![Distributions of Variables](/Images/distributions.png)
 
-## [Project 2: House Price Prediction Project](https://github.com/chelseako/House_Pricing_Project)
+## [Project 2: House Price Prediction Project](https://chelseako.github.io/House_Pricing_Project/)
 * Created a model that estimates sold prices for Honolulu houses (RMSE ~ $87,000) to help home buyers estimate a competitive bid offer.
 * Custom built a web scraper using Python and Selenium for a local real estate website.
 * Used only predictor variables that can be identified at time of listing.
@@ -36,7 +36,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 * Develop a framework for machine learning techniques to quantify the impact that different sensors (e.g., heart rate, galvanic skin response) have on determining stress levels to help practitioners select the most suitable sensor(s) to recommend to patients undergoing therapy.
 * Identify best practices for data collection, cleaning, and processing.
 
-## [Project 4: Health Care Access](https://github.com/chelseako/health_care_access)
+## [Project 4: Health Care Access](https://chelseako.github.io/health_care_access/)
 * Cleaned, processed, and engineered features from the 2011 through 2019 Behavioral Risk Factor Surveillance System (BRFSS) Survey using R.
 * Created and analyzed three data visualizations in R and Tableau, including:
      1. Multi-dimensional scaling of the average number of poor health days by state
