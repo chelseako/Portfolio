@@ -24,3 +24,12 @@
 * Identify wearable sensors that are the least invasive and provide the most insight into a patient's long-term stress levels to determine effectiveness of counseling/psychotherapy.
 * Develop a framework for machine learning techniques to quantify the impact that different sensors (e.g., heart rate, galvanic skin response) have on determining stress levels to help practitioners select the most suitable sensor(s) to recommend to patients undergoing therapy.
 * Identify best practices for data collection, cleaning, and processing.
+
+## [Project 4: Health Care Access](https://github.com/chelseako/health_care_access)
+* Cleaned, processed, and engineered features from the 2011 through 2019 Behavioral Risk Factor Surveillance System (BRFSS) Survey using R.
+* Created and analyzed three data visualizations, including:
+     1. Multi-dimensional scaling of the average number of poor health days by state
+     2. [Choropleth animation of states' percent with health insurance from 2011 through 2019](https://youtu.be/acC3c1pTr3k)
+     3. Dot chart infographic showing the differences in poor health days for individuals with and without healthcare access (below)
+
+![Dot chart infographic healthcare access](/Images/healthCareAccess_infographic.png)
