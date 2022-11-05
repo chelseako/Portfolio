@@ -1,5 +1,3 @@
-# Chelsea Ko's Data Science Portfolio
-
 ## About Me
 **Education Background:**   
   
