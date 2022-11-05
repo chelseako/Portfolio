@@ -1,3 +1,5 @@
+![Profile picture](/images/ko3.png) 
+
 ## About Me
 **Education Background:**   
   
