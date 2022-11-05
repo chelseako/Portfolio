@@ -1,4 +1,4 @@
-![Profile picture](/images/profile.png) 
+![Profile picture](/Images/profile.png) 
 
 ## About Me
 **Education Background:**   
