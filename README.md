@@ -30,7 +30,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ![Scatterplot of sold versus original price](/Images/scatter_sold_orig.png)
 
-## [Project 3: DREAM Project](https://github.com/chelseako/DREAMProject)
+## [Project 3: DREAM Project](https://chelseako.com/DREAMProject/)
 * Selected by the Master's of Science in Computer Science (MSCS) Consortium to participate in the Distributed REsearch Apprenticeships for Master's (DREAM) Program, designed for students without a bachelor's degree in computing to participate in computing research. 
 * Identify wearable sensors that are the least invasive and provide the most insight into a patient's long-term stress levels to determine effectiveness of counseling/psychotherapy.
 * Develop a framework for machine learning techniques to quantify the impact that different sensors (e.g., heart rate, galvanic skin response) have on determining stress levels to help practitioners select the most suitable sensor(s) to recommend to patients undergoing therapy.
